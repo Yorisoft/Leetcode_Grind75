@@ -1,22 +1,22 @@
-﻿**Introduction:**
+﻿# Introduction:
 
-Welcome to my Leetcode Grind75 repository! This collection houses my solutions to the popular Grind75 challenge, inspired by the Blind75 project by Yangshun Tay.
+Welcome to my Leetcode Grind75 repository! This collection houses my solutions to the popular Grind75 challenge, inspired by the Blind75 project by **Yangshun Tay**.
 
-**What is Grind75?**
+### What is Grind75?
 
 Grind75 is a curated list of 75 Leetcode problems designed to systematically improve your problem-solving skills and prepare you for technical interviews. It builds upon the success of Blind75, offering variations and additional exercises for a more comprehensive learning experience.
 
-**Where to Learn More:**
+### Where to Learn More:
 
 - **Grind75:** https://www.techinterviewhandbook.org/grind75/
 - **Blind75:** https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 - **Leetcode:** https://leetcode.com/
 
-**Progress Tracking:**
+# Progress Tracking:
 
 Here's a checklist to visualize your progress through the Grind75 challenges:
 
-**Explanation of Progress Markers:**
+**Key for Progress Markers:**
 
 - `🟢`: Easy
 - `🟠`: Medium
