@@ -16,7 +16,7 @@ Grind75 is a curated list of 75 Leetcode problems designed to systematically imp
 
 Here's a checklist to visualize your progress through the Grind75 challenges:
 
-**Key for Progress Markers:**
+### Key for Progress Markers:
 
 - `🟢`: Easy
 - `🟠`: Medium
@@ -36,8 +36,8 @@ Here's a checklist to visualize your progress through the Grind75 challenges:
 | 7   | Valid Anagram                               | 🟢           |        |       | Solved |
 | 8   | Binary Search                               | 🟢           |        |       | Solved |
 | 9   | Flood Fill                                  | 🟢           |        |       | Solved |
-| 10  | Maximum Subarray                            |             | 🟠      |       |⏳ |
-| 11  | Lowest Common Ancestor of a Binary Search Tree | 🟢       |        |       |  |
+| 10  | Maximum Subarray                            |             | 🟠      |       | Solved |
+| 11  | Lowest Common Ancestor of a Binary Search Tree | 🟢        |        |       | Solved |
 | 12  | Insert Interval                             |             | 🟠      |       |  |
 | 13  | 01 Matrix                                   |             | 🟠      |       |  |
 | 14  | K Closest Points to Origin                  |             | 🟠      |       |  |
