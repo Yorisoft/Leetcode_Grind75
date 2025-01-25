@@ -39,7 +39,7 @@ Here's a checklist to visualize your progress through the Grind75 challenges:
 | 10  | Maximum Subarray                            |             | 🟠      |       | Solved |
 | 11  | Lowest Common Ancestor of a Binary Search Tree | 🟢        |        |       | Solved |
 | 12  | Insert Interval                             |             | 🟠      |       | Solved |
-| 13  | 01 Matrix                                   |             | 🟠      |       |  |
+| 13  | 01 Matrix                                   |             | 🟠      |       | Solved |
 | 14  | K Closest Points to Origin                  |             | 🟠      |       |  |
 | 15  | Balanced Binary Tree                        | 🟢           |        |       | Solved |
 
