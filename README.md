@@ -43,7 +43,7 @@ Grind75 is a curated list of 75 Leetcode problems designed to systematically imp
 
 |  Week 2  | Problem                                     | Easy        | Medium | Hard  | Status |
 |-----|---------------------------------------------|-------------|--------|-------|--------|
-| 1   | Linked List Cycle                           | 🟢           |        |       |  |
+| 1   | Linked List Cycle                           | 🟢           |        |       | Solved |
 | 2   | Implement Queue using Stacks                | 🟢           |        |       |  |
 | 3   | First Bad Version                           | 🟢           |        |       |  |
 | 4   | Ransom Note                                 | 🟢           |        |       |  |
