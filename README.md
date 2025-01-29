@@ -20,32 +20,32 @@ Grind75 is a curated list of 75 Leetcode problems designed to systematically imp
 - `🟠`: Medium
 - `🔴`: Hard
 - `⏳`: In progress
+- `✅`: Solved / Completed
 - `❌`: Not planning to attempt
-
 
 |  Week 1 | Problem                                     | Easy        | Medium | Hard  | Status |
 |-----|---------------------------------------------|-------------|--------|-------|--------|
-| 1   | Two Sum                                     | 🟢           |        |       | Solved |
-| 2   | Valid Parentheses                           | 🟢           |        |       | Solved |
-| 3   | Merge Two Sorted Lists                      | 🟢           |        |       | Solved |
-| 4   | Best Time to Buy and Sell Stock             | 🟢           |        |       | Solved |
-| 5   | Valid Palindrome                            | 🟢           |        |       | Solved |
-| 6   | Invert Binary Tree                          | 🟢           |        |       | Solved |
-| 7   | Valid Anagram                               | 🟢           |        |       | Solved |
-| 8   | Binary Search                               | 🟢           |        |       | Solved |
-| 9   | Flood Fill                                  | 🟢           |        |       | Solved |
-| 10  | Maximum Subarray                            |             | 🟠      |       | Solved |
-| 11  | Lowest Common Ancestor of a Binary Search Tree | 🟢        |        |       | Solved |
-| 12  | Insert Interval                             |             | 🟠      |       | Solved |
-| 13  | 01 Matrix                                   |             | 🟠      |       | Solved |
-| 14  | K Closest Points to Origin                  |             | 🟠      |       | Solved |
-| 15  | Balanced Binary Tree                        | 🟢           |        |       | Solved |
+| 1   | Two Sum                                     | 🟢           |        |       | ✅ |
+| 2   | Valid Parentheses                           | 🟢           |        |       | ✅ |
+| 3   | Merge Two Sorted Lists                      | 🟢           |        |       | ✅ |
+| 4   | Best Time to Buy and Sell Stock             | 🟢           |        |       | ✅ |
+| 5   | Valid Palindrome                            | 🟢           |        |       | ✅ |
+| 6   | Invert Binary Tree                          | 🟢           |        |       | ✅ |
+| 7   | Valid Anagram                               | 🟢           |        |       | ✅ |
+| 8   | Binary Search                               | 🟢           |        |       | ✅ |
+| 9   | Flood Fill                                  | 🟢           |        |       | ✅ |
+| 10  | Maximum Subarray                            |             | 🟠      |       | ✅ |
+| 11  | Lowest Common Ancestor of a Binary Search Tree | 🟢        |        |       | ✅ |
+| 12  | Insert Interval                             |             | 🟠      |       | ✅ |
+| 13  | 01 Matrix                                   |             | 🟠      |       | ✅ |
+| 14  | K Closest Points to Origin                  |             | 🟠      |       | ✅ |
+| 15  | Balanced Binary Tree                        | 🟢           |        |       | ✅ |
 
 |  Week 2  | Problem                                     | Easy        | Medium | Hard  | Status |
 |-----|---------------------------------------------|-------------|--------|-------|--------|
-| 1   | Linked List Cycle                           | 🟢           |        |       | Solved |
-| 2   | Implement Queue using Stacks                | 🟢           |        |       |  |
-| 3   | First Bad Version                           | 🟢           |        |       |  |
+| 1   | Linked List Cycle                           | 🟢           |        |       | ✅ |
+| 2   | Implement Queue using Stacks                | 🟢           |        |       | ⏳ |
+| 3   | First Bad Version                           | 🟢           |        |       | ⏳ |
 | 4   | Ransom Note                                 | 🟢           |        |       |  |
 | 5   | Longest Substring Without Repeating Characters |         | 🟠      |       |  |
 | 6   | 3Sum                                        |             | 🟠      |       |  |
