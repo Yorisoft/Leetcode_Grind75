@@ -38,7 +38,7 @@ Grind75 is a curated list of 75 Leetcode problems designed to systematically imp
 | 11  | Lowest Common Ancestor of a Binary Search Tree | 🟢        |        |       | Solved |
 | 12  | Insert Interval                             |             | 🟠      |       | Solved |
 | 13  | 01 Matrix                                   |             | 🟠      |       | Solved |
-| 14  | K Closest Points to Origin                  |             | 🟠      |       | ⏳ |
+| 14  | K Closest Points to Origin                  |             | 🟠      |       | Solved |
 | 15  | Balanced Binary Tree                        | 🟢           |        |       | Solved |
 
 |  Week 2  | Problem                                     | Easy        | Medium | Hard  | Status |
