@@ -46,9 +46,9 @@ Grind75 is a curated list of 75 Leetcode problems designed to systematically imp
 | 1   | Linked List Cycle                           | 🟢           |        |       | ✅ |
 | 2   | Implement Queue using Stacks                | 🟢           |        |       | ✅ |
 | 3   | First Bad Version                           | 🟢           |        |       | ✅ |
-| 4   | Ransom Note                                 | 🟢           |        |       | ⏳ |
-| 5   | Longest Substring Without Repeating Characters |         | 🟠      |       |  |
-| 6   | 3Sum                                        |             | 🟠      |       |  |
+| 4   | Ransom Note                                 | 🟢           |        |       | ✅ |
+| 5   | Longest Substring Without Repeating Characters |         | 🟠      |       | ⏳ |
+| 6   | 3Sum                                        |             | 🟠      |       | ⏳ |
 | 7   | Binary Tree Level Order Traversal           |             | 🟠      |       |  |
 | 8   | Clone Graph                                 |             | 🟠      |       |  |
 | 9   | Evaluate Reverse Polish Notation            |             | 🟠      |       |  |
