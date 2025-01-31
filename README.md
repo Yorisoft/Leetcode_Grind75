@@ -26,21 +26,21 @@ Grind75 is a curated list of 75 Leetcode problems designed to systematically imp
 
 |  Week 1 | Problem                                     | Easy        | Medium | Hard  | Status |
 |---------|---------------------------------------------|-------------|--------|-------|--------|
-| 1   | Two Sum                                     | 🟢           |        |       | ✅ |
-| 2   | Valid Parentheses                           | 🟢           |        |       | ✅ |
-| 3   | Merge Two Sorted Lists                      | 🟢           |        |       | ✅ |
-| 4   | Best Time to Buy and Sell Stock             | 🟢           |        |       | ✅ |
-| 5   | Valid Palindrome                            | 🟢           |        |       | ✅ |
-| 6   | Invert Binary Tree                          | 🟢           |        |       | ✅ |
-| 7   | Valid Anagram                               | 🟢           |        |       | ✅ |
-| 8   | Binary Search                               | 🟢           |        |       | ✅ |
-| 9   | Flood Fill                                  | 🟢           |        |       | ✅ |
-| 10  | Maximum Subarray                            |             | 🟠      |       | ✅ |
-| 11  | Lowest Common Ancestor of a Binary Search Tree | 🟢        |        |       | ✅ |
-| 12  | Insert Interval                             |             | 🟠      |       | ✅ |
-| 13  | 01 Matrix                                   |             | 🟠      |       | ✅ |
-| 14  | K Closest Points to Origin                  |             | 🟠      |       | ✅ |
-| 15  | Balanced Binary Tree                        | 🟢           |        |       | 🌐 |
+| 1   | Two Sum                                         | 🟢          |        |       | ✅    |
+| 2   | Valid Parentheses                               | 🟢          |        |       | ✅    |
+| 3   | Merge Two Sorted Lists                          | 🟢          |        |       | 🌐    |
+| 4   | Best Time to Buy and Sell Stock                 | 🟢          |        |       | ✅    |
+| 5   | Valid Palindrome                                | 🟢          |        |       | ✅    |
+| 6   | Invert Binary Tree                              | 🟢          |        |       | ✅    |
+| 7   | Valid Anagram                                   | 🟢          |        |       | ✅    |
+| 8   | Binary Search                                   | 🟢          |        |       | ✅    |
+| 9   | Flood Fill                                      | 🟢          |        |       | 🌐    |
+| 10  | Maximum Subarray                                |             | 🟠     |       | ✅    |
+| 11  | Lowest Common Ancestor of a Binary Search Tree  | 🟢          |        |       | 🌐    |
+| 12  | Insert Interval                                 |             | 🟠     |       | 🌐    |
+| 13  | 01 Matrix                                       |             | 🟠     |       | ✅    |
+| 14  | K Closest Points to Origin                      |             | 🟠     |       | ✅    |
+| 15  | Balanced Binary Tree                            | 🟢           |       |       | 🌐    |
 
 |  Week 2  | Problem                                     | Easy        | Medium | Hard  | Status |
 |-----|---------------------------------------------|-------------|--------|-------|--------|
