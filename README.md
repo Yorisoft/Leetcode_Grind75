@@ -20,11 +20,12 @@ Grind75 is a curated list of 75 Leetcode problems designed to systematically imp
 - `🟠`: Medium
 - `🔴`: Hard
 - `⏳`: In progress
-- `✅`: Solved / Completed
+- `✅`: Solved by me
+- `🌐`: Solved by ChatGPT / Online
 - `❌`: Not planning to attempt
 
 |  Week 1 | Problem                                     | Easy        | Medium | Hard  | Status |
-|-----|---------------------------------------------|-------------|--------|-------|--------|
+|---------|---------------------------------------------|-------------|--------|-------|--------|
 | 1   | Two Sum                                     | 🟢           |        |       | ✅ |
 | 2   | Valid Parentheses                           | 🟢           |        |       | ✅ |
 | 3   | Merge Two Sorted Lists                      | 🟢           |        |       | ✅ |
@@ -39,7 +40,7 @@ Grind75 is a curated list of 75 Leetcode problems designed to systematically imp
 | 12  | Insert Interval                             |             | 🟠      |       | ✅ |
 | 13  | 01 Matrix                                   |             | 🟠      |       | ✅ |
 | 14  | K Closest Points to Origin                  |             | 🟠      |       | ✅ |
-| 15  | Balanced Binary Tree                        | 🟢           |        |       | ✅ |
+| 15  | Balanced Binary Tree                        | 🟢           |        |       | 🌐 |
 
 |  Week 2  | Problem                                     | Easy        | Medium | Hard  | Status |
 |-----|---------------------------------------------|-------------|--------|-------|--------|
@@ -48,9 +49,9 @@ Grind75 is a curated list of 75 Leetcode problems designed to systematically imp
 | 3   | First Bad Version                           | 🟢           |        |       | ✅ |
 | 4   | Ransom Note                                 | 🟢           |        |       | ✅ |
 | 5   | Longest Substring Without Repeating Characters |         | 🟠      |       | ✅ |
-| 6   | 3Sum                                        |             | 🟠      |       | ⏳ |
-| 7   | Binary Tree Level Order Traversal           |             | 🟠      |       |  |
-| 8   | Clone Graph                                 |             | 🟠      |       |  |
+| 6   | 3Sum                                        |             | 🟠      |       | 🌐 |
+| 7   | Binary Tree Level Order Traversal           |             | 🟠      |       | ⏳ |
+| 8   | Clone Graph                                 |             | 🟠      |       | ⏳ |
 | 9   | Evaluate Reverse Polish Notation            |             | 🟠      |       |  |
 | 10  | Course Schedule                             |             | 🟠      |       |  |
 | 11  | Implement Trie (Prefix Tree)                |             | 🟠      |       |  |
