@@ -1,4 +1,4 @@
-﻿# Introduction:
+﻿# Introduction
 
 Welcome to my Leetcode Grind75 repository! This collection houses my solutions to the popular Grind75 challenge, inspired by the Blind75 project by **Yangshun Tay**.
 
@@ -47,7 +47,7 @@ Grind75 is a curated list of 75 Leetcode problems designed to systematically imp
 | 2   | Implement Queue using Stacks                | 🟢           |        |       | ✅ |
 | 3   | First Bad Version                           | 🟢           |        |       | ✅ |
 | 4   | Ransom Note                                 | 🟢           |        |       | ✅ |
-| 5   | Longest Substring Without Repeating Characters |         | 🟠      |       | ⏳ |
+| 5   | Longest Substring Without Repeating Characters |         | 🟠      |       | ✅ |
 | 6   | 3Sum                                        |             | 🟠      |       | ⏳ |
 | 7   | Binary Tree Level Order Traversal           |             | 🟠      |       |  |
 | 8   | Clone Graph                                 |             | 🟠      |       |  |
